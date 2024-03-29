@@ -25,11 +25,11 @@
 
 | ![IR3](https://songshangge0-1308994233.cos.ap-shanghai.myqcloud.com/IR3.bmp) | ![VIS3](https://songshangge0-1308994233.cos.ap-shanghai.myqcloud.com/VIS3.bmp) | ![3-1](https://songshangge0-1308994233.cos.ap-shanghai.myqcloud.com/3-1.jpg) | ![3-2](https://songshangge0-1308994233.cos.ap-shanghai.myqcloud.com/3-2.jpg) | ![3-3](https://songshangge0-1308994233.cos.ap-shanghai.myqcloud.com/3-3.jpg) | ![3-4](https://songshangge0-1308994233.cos.ap-shanghai.myqcloud.com/3-4.jpg) | ![3-5](https://songshangge0-1308994233.cos.ap-shanghai.myqcloud.com/3-5.jpg) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|                            热红外                            |                            可见光                            |                            0.5667                            |                            0.2735                            |                            0.5579                            |                            0.8833                            |                            0.8314                            |
+|                            热红外                            |                            可见光                            |                          MOS 0.5667                          |                          MOS 0.2735                          |                          MOS 0.5579                          |                          MOS 0.8833                          |                          MOS 0.8314                          |
 | ![IR4](https://songshangge0-1308994233.cos.ap-shanghai.myqcloud.com/IR4.bmp) | ![VIS4](https://songshangge0-1308994233.cos.ap-shanghai.myqcloud.com/VIS4.bmp) | ![4-1](https://songshangge0-1308994233.cos.ap-shanghai.myqcloud.com/4-1.jpg) | ![4-2](https://songshangge0-1308994233.cos.ap-shanghai.myqcloud.com/4-2.jpg) | ![4-3](https://songshangge0-1308994233.cos.ap-shanghai.myqcloud.com/4-3.jpg) | ![4-4](https://songshangge0-1308994233.cos.ap-shanghai.myqcloud.com/4-4.jpg) | ![4-5](https://songshangge0-1308994233.cos.ap-shanghai.myqcloud.com/4-5.jpg) |
-|                            热红外                            |                            可见光                            |                            0.8343                            |                            0.5500                            |                            0.7049                            |                            0.8118                            |                            0.9882                            |
+|                            热红外                            |                            可见光                            |                          MOS 0.8343                          |                          MOS 0.5500                          |                          MOS 0.7049                          |                          MOS 0.8118                          |                          MOS 0.9882                          |
 | ![IR6](https://songshangge0-1308994233.cos.ap-shanghai.myqcloud.com/IR6.bmp) | ![VIS6](https://songshangge0-1308994233.cos.ap-shanghai.myqcloud.com/VIS6.bmp) | ![6-1](https://songshangge0-1308994233.cos.ap-shanghai.myqcloud.com/6-1.jpg) | ![6-2](https://songshangge0-1308994233.cos.ap-shanghai.myqcloud.com/6-2.jpg) | ![6-3](https://songshangge0-1308994233.cos.ap-shanghai.myqcloud.com/6-3.jpg) | ![6-4](https://songshangge0-1308994233.cos.ap-shanghai.myqcloud.com/6-4.jpg) | ![6-5](https://songshangge0-1308994233.cos.ap-shanghai.myqcloud.com/6-5.jpg) |
-|                            热红外                            |                            可见光                            |                            0.8343                            |                            0.4882                            |                            0.5314                            |                            0.9902                            |                            0.7598                            |
+|                            热红外                            |                            可见光                            |                          MOS 0.8343                          |                          MOS 0.4882                          |                          MOS 0.5314                          |                          MOS 0.9902                          |                          MOS 0.7598                          |
 
 ## 🧰 评估
 
@@ -41,7 +41,9 @@
 
 ## 🔧 更新日志
 
-**2023/12/15** 公开部分数据集地址，并上传示例图片。
+**2023/12/15** 公开部分数据集地址，并上传数据集子集（具体数据在文件demo中）。
+
+**2024/3/29** 完善数据集子集，并添加主观评分。
 
 ## 🌸 致谢
 
